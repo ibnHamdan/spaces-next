@@ -1,4 +1,4 @@
-nmae: Build Next.js web application
+name: Build Next.js web application
 on: push
 jobs:
   build-project:
